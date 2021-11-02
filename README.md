@@ -21,7 +21,7 @@
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
   <br>
   
-  ## :smile: m e 
+  ## :laughing: m e 
   [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hojun0_0/)](https://www.instagram.com/hojun0_0/) 
   [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hojunii95@gmail.com)](mailto:hojunii95@gmail.com)
   
