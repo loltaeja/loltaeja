@@ -1,7 +1,7 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Be%20Smarter📚)
-  ### 👋 Hi there! I'm web developer using Java 👋
+  ### 👋 Hi there! I'm web developer using Java 👋 :pencil2:
   <br>
   
   ## 🌹 T e c h 🌹
