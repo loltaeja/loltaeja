@@ -28,7 +28,7 @@
   <br><br>
   
   ## 😆 p r o j e c t
-  [날씨 예보 ](https://github.com/loltaeja/weather) (2021/08/01~2021/10/31)
+  [날씨 예보](https://github.com/loltaeja/weather) (2021/08/01~2021/10/31)
   
 </div>
 
