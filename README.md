@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Be Smarter)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Be&Smarter)
 
 ### 👋 Hi there! I'm web developer using Java 👋
 
