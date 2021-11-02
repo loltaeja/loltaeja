@@ -1,10 +1,10 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Be%20Smarter📚)
-  ### 👋 Hi there! I'm web developer using Java 👋 :pencil2:
+  ### 👋 Hi there! I'm web developer using Java 👋
   <br>
   
-  ## 🌹 T e c h 🌹
+  ## ✏️ T e c h ✏️
   
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)]()
   [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)]()
