@@ -25,6 +25,10 @@
   ## 😆 m e 
   [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hojun0_0/)](https://www.instagram.com/hojun0_0/) 
   [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hojunii95@gmail.com)](mailto:hojunii95@gmail.com)
+  <br>
+  
+  ## 😆 p r o j e c t
+  https://github.com/loltaeja/weather (2021/08/01~2021/10/31)
   
 </div>
 
