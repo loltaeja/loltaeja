@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Be%20Smarter)
 ### 👋 Hi there! I'm web developer using Java 👋
 <div align=center>
-[![JAVA](https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=black)]
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/hojun0_0/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+[![JAVA](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=black)]
+[![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/hojun0_0/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:hojunii95@gmail.com)
 </div>
 
 <!--
