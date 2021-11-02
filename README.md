@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Be%20Smarter)
 ### 👋 Hi there! I'm web developer using Java 👋
-[![Java](https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=black)]
+[![JAVA](https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=black)]
 
 <!--
 **loltaeja/loltaeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
